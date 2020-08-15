@@ -6,5 +6,7 @@ public class Demo {
     }
     public  void delete(){
         System.out.println("111");
+    } public  void ccc(){
+        System.out.println("111");
     }
 }
